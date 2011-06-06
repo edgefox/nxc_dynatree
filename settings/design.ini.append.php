@@ -11,11 +11,9 @@ BackendCSSFileList[]
 BackendCSSFileList[]=ui.dynatree.css
 
 [JavaScriptSettings]
-JavaScriptList[]
 JavaScriptList[]=jquery/jquery-ui.custom.min.js
 JavaScriptList[]=jquery/jquery.cookie.js
 JavaScriptList[]=jquery/jquery.dynatree.min.js
-BackendJavaScriptList[]
 BackendJavaScriptList[]=jquery/jquery-ui.custom.min.js
 BackendJavaScriptList[]=jquery/jquery.cookie.js
 BackendJavaScriptList[]=jquery/jquery.dynatree.min.js
