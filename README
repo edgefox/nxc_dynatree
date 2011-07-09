@@ -1,4 +1,5 @@
-/* This is implementation of Dynatree jQuery plugin ( http://code.google.com/p/dynatree/ )
+/**
+ * This is implementation of Dynatree jQuery plugin ( http://code.google.com/p/dynatree/ )
  * in eZ publish 4.x. It just replaces the default "content/browse" template with dynamical
  * ajax one.
  * Works in frontend and backend.
